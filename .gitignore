@@ -1,0 +1,18 @@
+# PyInstaller build & dist
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp & generated
+fashion_preview_b64.txt
+test_output.txt
+fashion_icon_preview*.png
+_no_shadow.png
+
+# IDE
+.vscode/
+.idea/
